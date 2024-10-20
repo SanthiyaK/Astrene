@@ -75,9 +75,7 @@ const Contact = () => {
               </label>
             </div>
           </div>
-          <div class="mt-10">
-            <button type="submit" >Let's talk</button>
-          </div>
+         
         </form>
       </div>
     );
