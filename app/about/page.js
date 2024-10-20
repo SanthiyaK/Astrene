@@ -20,7 +20,7 @@ const About = () => {
                             <h2
                                 class="text-gray-900 text-4xl font-bold font-manrope leading-normal lg:text-start text-center">
                                 Fast and reliable car repair services</h2>
-                            <p class="text-gray-500 text-base font-normal leading-relaxed lg:text-start text-center"> Every project we've undertaken has been a collaborative effort, where every person involved has left their mark. Together, we've not only constructed buildings but also built enduring connections that define our success story.</p>
+                         
                         </div>
                         <div class="w-full lg:justify-start justify-center items-center sm:gap-10 gap-5 inline-flex">
                             <div class="flex-col justify-start items-start inline-flex">
